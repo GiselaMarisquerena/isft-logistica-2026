@@ -1,0 +1,51 @@
+id,nombre,categoria,latitud,longitud,valor,fecha,descripcion
+1,Pedido 001 - General Pacheco,Entregado,-34.455724,-58.63702,103,2026-10-02,Entrega ficticia en General Pacheco
+2,Pedido 002 - Tigre,En camino,-34.436929,-58.594647,56,2026-10-03,Entrega ficticia en Tigre
+3,Pedido 003 - San Fernando,Pendiente,-34.45101,-58.562595,89,2026-10-04,Entrega ficticia en San Fernando
+4,Pedido 004 - San Isidro,Entregado,-34.4824,-58.498251,71,2026-10-05,Entrega ficticia en San Isidro
+5,Pedido 005 - Don Torcuato,Entregado,-34.484432,-58.633729,82,2026-10-06,Entrega ficticia en Don Torcuato
+6,Pedido 006 - El Talar,Entregado,-34.465372,-58.678166,101,2026-10-07,Entrega ficticia en El Talar
+7,Pedido 007 - Pilar,En camino,-34.448107,-58.905354,74,2026-10-08,Entrega ficticia en Pilar
+8,Pedido 008 - Tortuguitas,Pendiente,-34.471179,-58.76341,104,2026-10-09,Entrega ficticia en Tortuguitas
+9,Pedido 009 - Munro,Entregado,-34.530774,-58.536049,102,2026-10-10,Entrega ficticia en Munro
+10,Pedido 010 - Vicente López,Entregado,-34.523039,-58.485811,63,2026-10-11,Entrega ficticia en Vicente López
+11,Pedido 011 - General Pacheco,En camino,-34.467925,-58.611874,87,2026-10-12,Entrega ficticia en General Pacheco
+12,Pedido 012 - Tigre,Pendiente,-34.41119,-58.56835,58,2026-10-13,Entrega ficticia en Tigre
+13,Pedido 013 - San Fernando,Entregado,-34.435076,-58.556903,24,2026-10-14,Entrega ficticia en San Fernando
+14,Pedido 014 - San Isidro,Entregado,-34.472455,-58.525542,41,2026-10-15,Entrega ficticia en San Isidro
+15,Pedido 015 - Don Torcuato,Entregado,-34.478097,-58.653775,89,2026-10-16,Entrega ficticia en Don Torcuato
+16,Pedido 016 - El Talar,En camino,-34.485458,-58.65293,103,2026-10-17,Entrega ficticia en El Talar
+17,Pedido 017 - Pilar,Pendiente,-34.443972,-58.911312,64,2026-10-18,Entrega ficticia en Pilar
+18,Pedido 018 - Tortuguitas,Entregado,-34.475915,-58.760243,28,2026-10-19,Entrega ficticia en Tortuguitas
+19,Pedido 019 - Munro,Entregado,-34.535303,-58.528006,79,2026-10-20,Entrega ficticia en Munro
+20,Pedido 020 - Vicente López,Entregado,-34.538602,-58.481134,53,2026-10-21,Entrega ficticia en Vicente López
+21,Pedido 021 - General Pacheco,Pendiente,-34.470787,-58.638027,86,2026-10-22,Entrega ficticia en General Pacheco
+22,Pedido 022 - Tigre,Entregado,-34.416481,-58.579391,46,2026-10-23,Entrega ficticia en Tigre
+23,Pedido 023 - San Fernando,Entregado,-34.450955,-58.548505,31,2026-10-24,Entrega ficticia en San Fernando
+24,Pedido 024 - San Isidro,Entregado,-34.476625,-58.526885,70,2026-10-25,Entrega ficticia en San Isidro
+25,Pedido 025 - Don Torcuato,En camino,-34.485333,-58.634968,52,2026-10-26,Entrega ficticia en Don Torcuato
+26,Pedido 026 - El Talar,Pendiente,-34.475207,-58.664316,30,2026-10-27,Entrega ficticia en El Talar
+27,Pedido 027 - Pilar,Entregado,-34.471775,-58.93119,85,2026-10-28,Entrega ficticia en Pilar
+28,Pedido 028 - Tortuguitas,Entregado,-34.479202,-58.748159,56,2026-10-01,Entrega ficticia en Tortuguitas
+29,Pedido 029 - Munro,Entregado,-34.528466,-58.506131,90,2026-10-02,Entrega ficticia en Munro
+30,Pedido 030 - Vicente López,En camino,-34.54486,-58.49193,35,2026-10-03,Entrega ficticia en Vicente López
+31,Pedido 031 - General Pacheco,Entregado,-34.462338,-58.624889,44,2026-10-04,Entrega ficticia en General Pacheco
+32,Pedido 032 - Tigre,Entregado,-34.442844,-58.581775,32,2026-10-05,Entrega ficticia en Tigre
+33,Pedido 033 - San Fernando,Entregado,-34.436484,-58.569495,78,2026-10-06,Entrega ficticia en San Fernando
+34,Pedido 034 - San Isidro,En camino,-34.462283,-58.508645,65,2026-10-07,Entrega ficticia en San Isidro
+35,Pedido 035 - Don Torcuato,Pendiente,-34.500285,-58.624355,49,2026-10-08,Entrega ficticia en Don Torcuato
+36,Pedido 036 - El Talar,Entregado,-34.456083,-58.651253,62,2026-10-09,Entrega ficticia en El Talar
+37,Pedido 037 - Pilar,Entregado,-34.463585,-58.896249,28,2026-10-10,Entrega ficticia en Pilar
+38,Pedido 038 - Tortuguitas,Entregado,-34.484748,-58.77318,43,2026-10-11,Entrega ficticia en Tortuguitas
+39,Pedido 039 - Munro,En camino,-34.54306,-58.524355,49,2026-10-12,Entrega ficticia en Munro
+40,Pedido 040 - Vicente López,Pendiente,-34.541311,-58.472585,81,2026-10-13,Entrega ficticia en Vicente López
+41,Pedido 041 - General Pacheco,Entregado,-34.471907,-58.629326,55,2026-10-14,Entrega ficticia en General Pacheco
+42,Pedido 042 - Tigre,Entregado,-34.424741,-58.589302,59,2026-10-15,Entrega ficticia en Tigre
+43,Pedido 043 - San Fernando,En camino,-34.434034,-58.551869,75,2026-10-16,Entrega ficticia en San Fernando
+44,Pedido 044 - San Isidro,Pendiente,-34.459591,-58.525592,85,2026-10-17,Entrega ficticia en San Isidro
+45,Pedido 045 - Don Torcuato,Entregado,-34.478158,-58.635097,62,2026-10-18,Entrega ficticia en Don Torcuato
+46,Pedido 046 - El Talar,Entregado,-34.4815,-58.659109,49,2026-10-19,Entrega ficticia en El Talar
+47,Pedido 047 - Pilar,Entregado,-34.450827,-58.923212,97,2026-10-20,Entrega ficticia en Pilar
+48,Pedido 048 - Tortuguitas,En camino,-34.475978,-58.771457,60,2026-10-21,Entrega ficticia en Tortuguitas
+49,Pedido 049 - Munro,Pendiente,-34.515984,-58.527521,71,2026-10-22,Entrega ficticia en Munro
+50,Pedido 050 - Vicente López,Entregado,-34.539027,-58.474351,46,2026-10-23,Entrega ficticia en Vicente López

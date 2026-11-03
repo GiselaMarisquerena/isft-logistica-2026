@@ -1,0 +1,5 @@
+Analizamos la ubicación y las posibles demoras de entregas logísticas en Buenos Aires.
+Utilizamos 50 registros ficticios creados para esta prueba y almacenados en Supabase.
+El mapa muestra cada pedido según su ubicación y estado mediante puntos de colores.
+El tablero permite observar entregas totales, completadas y con más de 60 minutos.
+En una segunda versión agregaríamos rutas reales y seguimiento en tiempo real.
